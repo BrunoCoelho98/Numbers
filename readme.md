@@ -60,6 +60,7 @@ This project is a console application written in C# that takes a user's input, v
 
 Enter a number:
 42
+
 42 is the answer to the ultimate question of life, the universe, and everything.
 
 
@@ -67,6 +68,7 @@ If the input is not a valid integer:
 
 Enter a number:
 abc
+
 The input abc is not a valid integer.
 
 
